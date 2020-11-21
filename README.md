@@ -2,15 +2,19 @@
 
 Hi everyone thank you for coming here.
 
+i learn all the things on internet
+
 
 # I KNOW
 
-1 java
+1. javascript
+1. java
+1. css
+1. node js
+1. html
 
-2 java script
 
-3 html
 
-4 css
+
 
 
