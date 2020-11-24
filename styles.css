@@ -71,10 +71,11 @@ border-bottom-left-radius: 1rem;
 }
 .navigation .link{
     color: white;
-    
+
 }
 .navigation .link-active{
     font-weight: bold;
+    
 
 }
 .hero{
