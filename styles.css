@@ -116,9 +116,12 @@ background-color: whitesmoke;
   
 }
 .img{
-    max-width: 4%;
-    /* width: 4%; */
+    /* max-width: 4%;
+    width: 4%;
   height: auto;
+ */
+ width:1rem; 
+ height:1rem;
 }
 .footer .footer-header{
     font-weight: bold;
