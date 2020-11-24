@@ -1,13 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap');
 :root{
-    --primary-color: blueviolet;
+    --primary-color:#34D399;
 }
 body{
     font-family: 'Noto Sans SC', sans-serif;
 margin: 0px;
 }
 
+ .container-center li{
+    
+        margin-top: 40px;
+        /* background-color: blue; */
+         
+} 
+ 
 
 .container{
 
