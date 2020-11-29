@@ -66,17 +66,17 @@ border-bottom-left-radius: 1rem;
 .navigation .nav-brand{
     font-weight: bold;
 }
-.navigation .hed{
-    text-align: center;
-    font-weight: bold;
-    font-size: xx-large;
-}
-
 .hed{
     text-align: center;
     font-weight: bold;
-    font-size: x-large;
+    font-size: 2rem;
 }
+
+/* .hed{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+} */
 .navigation .nav-pills {
     text-align: right;
 }
