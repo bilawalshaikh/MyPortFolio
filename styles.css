@@ -109,7 +109,7 @@ border-bottom-left-radius: 1rem;
     margin: auto;
 }
 .hero .hero-heading{
-    color: var(--primary-color);;
+    color: var(--primary-color);
     padding: 1rem;
     text-align: center;
 }
